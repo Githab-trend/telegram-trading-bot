@@ -5,3 +5,6 @@ pandas
 ta
 python-telegram-bot
 colorama
+numpy
+pyTelegramBotAPI
+requests
