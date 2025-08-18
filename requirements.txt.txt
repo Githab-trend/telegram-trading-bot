@@ -1,0 +1,7 @@
+selenium
+webdriver-manager
+python-dotenv
+pandas
+ta
+python-telegram-bot
+colorama
