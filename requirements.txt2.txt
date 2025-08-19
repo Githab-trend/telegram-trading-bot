@@ -1,4 +1,5 @@
-pyTelegramBotAPI
 pandas
 numpy
 requests
+pyTelegramBotAPI
+matplotlib
